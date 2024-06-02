@@ -82,9 +82,9 @@ ax.grid(True)
 
 ax.set_title(f'US - Yield Curve - {last_day}')
 ax.legend()
-plt.figtext(0.08,0.05,'Dados: FED',horizontalalignment='left',fontsize=12,
+plt.figtext(0.08,0.03,'Dados: FED',horizontalalignment='left',fontsize=12,
             color = 'w')
-plt.figtext(0.95,0.05,'Elaboração: Caio Martins',horizontalalignment='right',fontsize=12,
+plt.figtext(0.95,0.03,'Elaboração: Caio Martins',horizontalalignment='right',fontsize=12,
             color = 'w')
 plt.tight_layout()
 plt.savefig('US - Yield Curve.png')
