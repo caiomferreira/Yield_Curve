@@ -1,4 +1,4 @@
-# ETTJ - Titúlos USA 
+# ETTJ - Títulos USA 
 Construção da estrutura a termo da taxa de juros dos títulos do tesouro americano.
 
 Utilizando Python e dados do site do FRED:
